@@ -6,6 +6,9 @@
 merge1
 merge 2aaa
 qqqqqqq
+<<<<<<< HEAD
 hi
 
+=======
 hello
+>>>>>>> dev
